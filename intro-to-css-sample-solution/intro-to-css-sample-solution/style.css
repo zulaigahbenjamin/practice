@@ -1,0 +1,17 @@
+/*
+    In our html file, for id named container,
+    the class named heading and an html tag called p, we
+    want to apply the color red to them.
+*/
+#container .heading, p {
+    color: red;
+}
+
+/*
+    In the html file, for the id named container,
+    and the class called "green_font", we want to
+    set the color to green.
+*/
+#container .green_font {
+    color: green;
+}
